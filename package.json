@@ -1,0 +1,23 @@
+{
+  "name": "prova_pedro_henrique_souza_ramos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroSRamos/Prova_Pedro_H_Ramos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroSRamos/Prova_Pedro_H_Ramos/issues"
+  },
+  "homepage": "https://github.com/PedroSRamos/Prova_Pedro_H_Ramos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
